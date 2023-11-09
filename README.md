@@ -7,7 +7,7 @@
 
 - 🌱 **Сейчас изучаю:** *Python, docker, php, c++*
 
-- 💬 **Я прохожу такие курсы как:** *Код будущего Python,Docker и Docker Compose - Деплой проекта с нуля,За тобой не придут с болгаркой Volume 1, 2 (2019),Python For Ethical Hackers, Learn Social Engineering From Scratch,Real-World Ethical Hacking: Hands-on Cybersecurity*
+- 💬 **Я прохожу такие курсы как:** *Код будущего Python, Docker и Docker Compose - Деплой проекта с нуля, За тобой не придут с болгаркой Volume 1, 2 (2019), Python For Ethical Hackers, Learn Social Engineering From Scratch, Real-World Ethical Hacking: Hands-on Cybersecurity*
 
 - 📫 **Связь со мной** *sh0w3xy@gmail.com*
 

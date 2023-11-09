@@ -14,7 +14,7 @@
 <h3 align="left">Связь со мной:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/590960" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="590960" height="30" width="40" /></a>
-<a href="(https://www.youtube.com/channel/UC-1qtHZ_EfDTUeF7wRvI_nw)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="showex" height="30" width="40" /></a>
+<a href="(https://www.youtube.com/channel/showex8896)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="showex" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Языки и инструменты:</h3>
